@@ -1,6 +1,6 @@
 ### Hi there , I'm Eiad👋
 
-I am a Software engineer with experience in building intelligent & scalable applications using Flutter | Matlab | Android.
+I am a Software engineer with experience in building intelligent & scalable applications using Flutter | Matlab | Android | Python.
 
 - 🔭 I’m currently working on project named "Digital Marketing Assistant", developing by flutter and powered by AI.
 - 👯 I’m looking to collaborate on  open source Flutter project.
