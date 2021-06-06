@@ -3,7 +3,7 @@
 <!--
 **EiadBadr/EiadBadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Software engineer with experience in building intelligent & scalable applications using Flutter | Matlab | Android.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
